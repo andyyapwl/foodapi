@@ -5,3 +5,5 @@ transformers==4.30.0
 pillow==9.5.0
 onnxruntime>=1.15.0
 onnx>=1.17.0
+requests
+numpy<2
