@@ -1,0 +1,12 @@
+Bread
+Dairy
+Dessert
+Egg
+Fried Food
+Fruit
+Meat
+Noodles
+Rice
+Seafood
+Soup
+Vegetable
